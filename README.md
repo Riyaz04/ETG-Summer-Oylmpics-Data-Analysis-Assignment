@@ -1,6 +1,6 @@
 # ETG-Summer-Oylmpics-Data-Analysis-Assignment
 Summer Olympics Data Analysis Assignment By Elite Techno Groups
-The Following analsis List are ------
+The Following analysis List are ------
 
 
   1.In how many cities Summer Olympics is held so far?
